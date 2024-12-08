@@ -1,5 +1,5 @@
 <script setup>
-import './assets/base.css'
+import './assets/main.css'
 import SearchBar from './components/SearchBar.vue'
 </script>
 

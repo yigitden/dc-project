@@ -3,7 +3,7 @@ import { createStore } from 'vuex'
 export default createStore({
   state: {
     searchHistory: [],
-    predefinedWords: ['apple', 'banana', 'cherry', 'date', 'elderberry']
+    predefinedWords: ['Line chart', 'Area chart', 'Column chart', 'Pie chart', 'Bubble chart']
   },
   
   mutations: {
